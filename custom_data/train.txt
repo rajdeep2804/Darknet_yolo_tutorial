@@ -1,0 +1,5 @@
+/home/roadzen/rajdeep/images/train/dog.jpg
+/home/roadzen/rajdeep/images/train/eagle.jpg
+/home/roadzen/rajdeep/images/train/giraffe.jpg
+/home/roadzen/rajdeep/images/train/horses.jpg
+/home/roadzen/rajdeep/images/train/person.jpg
